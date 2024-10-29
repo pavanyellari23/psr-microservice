@@ -1,0 +1,5 @@
+com\Review\Reviews\repo\ReviewRepository.class
+com\Review\Reviews\ReviewsApplication.class
+com\Review\Reviews\model\Reviews.class
+com\Review\Reviews\service\ReviewService.class
+com\Review\Reviews\controller\ReviewController.class
